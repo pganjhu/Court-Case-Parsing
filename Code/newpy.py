@@ -12,8 +12,8 @@ import codecs
 from bs4 import BeautifulSoup
 
 
-arr = os.listdir("C://Users//Pawan//Downloads//court cases parsing//html") #to read all .html files in the folder
-path='C://Users//Pawan//Downloads//court cases parsing//html//' 
+arr = os.listdir("C://Projects//Old-AWS-Projects//Court-Case-Parsing//html") #to read all .html files in the folder
+path='C://Projects//Old-AWS-Projects//Court-Case-Parsing//html//' 
  
 def Search_Operation(name): #function to execute step 1, 2 and 3 from instruction template
     retarray=[]
