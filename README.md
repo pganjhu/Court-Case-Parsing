@@ -1,6 +1,5 @@
 # Problem statement:
-
-# The court cases 1000 samples zip folder contains 1K html files on which you need to apply the searches.
+The court cases 1000 samples zip folder contains 1K html files on which you need to apply the searches.
 
 # Terminal script: Written in any language and can be run from linux terminal.
 
